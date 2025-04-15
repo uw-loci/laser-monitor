@@ -7,7 +7,7 @@ An open source remote monitoring system has been designed and built to address t
 
 ## Version Control Approach
 
-Previously, we tracked different versions of our code by adding version numbers directly into filenames (e.g., monitor-v4.py). This approach made sense when working without formal version control, but it became cumbersome when collaborating, merging changes, and reviewing code.
+Previously, we tracked different versions of our code by adding version numbers directly into filenames (e.g., monitor-v4.ino). This approach made sense when working without formal version control, but it became cumbersome when collaborating, merging changes, and reviewing code.
 
 To address this, we've adopted Git tagging for version tracking:
 
